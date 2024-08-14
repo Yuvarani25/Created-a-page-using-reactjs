@@ -1,0 +1,18 @@
+.nav{
+    background-color: rgb(46, 44, 78);
+    height: 60px;
+    width:100%;
+}
+ul{
+    list-style-type: none;
+    float: right;
+    /* border: 1px solid black; */
+    margin-top: 40px;
+
+}
+li{
+    display: inline;
+    padding: 20px;
+    font-size: 20px;
+    color: aliceblue;
+}
